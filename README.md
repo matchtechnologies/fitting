@@ -4,6 +4,8 @@
 alt="Fitting avatar: Documents with hangers"
 src="./images/logo.png">
 
+Note: The project has been moved to https://github.com/tuwilof/fitting
+
 Library add improve test log, validate its according to your API documentation, show the documentation coverage with log.
 
 Test log setting supports RSpec test and WebMock stubbing for Ruby On Rails application, API documentation supports API Blueprint and OpenAPI.
